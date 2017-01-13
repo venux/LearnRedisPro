@@ -1,0 +1,8 @@
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe.config
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\bin\Debug\RedisDemo.pdb
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.dll
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\bin\Debug\StackExchange.Redis.xml
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\obj\Debug\RedisDemo.csprojResolveAssemblyReference.cache
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\obj\Debug\RedisDemo.exe
+E:\05.Code\01.Repositories\03.Redis\LearnRedisPro\RedisDemo\RedisDemo\obj\Debug\RedisDemo.pdb
